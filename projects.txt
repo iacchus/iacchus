@@ -1,0 +1,47 @@
+birdears
+fretboard-svg
+musiceditor
+abc music notation standard
+itml-lang
+sheet music stuff
+kaomoji-open-database
+wacom linux tool
+iacchus.github.io
+awesome linux wacom
+bloggin tools
+userscripts
+awesomewm numlock widget
+awesomewm capslock widget
+iacchus-sidebar
+markdown placeholder
+iacchus table language
+utils-iacchus-github-io
+unicode textbox
+cool badges
+deck
+base64ip
+etudes
+jupyter-notebooks
+side-translation-js
+svg-treeoflife
+tunebook
+scandinavian-tunebook
+jupyter-ipython-themes
+iacchus-music-toolchain
+breeze
+juppyter-stuuf
+ascii-table-extended
+letterhead-paper
+chimas
+budismo-sketchbook
+aa seal vector images
+bach-bwv-1001-1006
+scripts
+git-for-translators
+standards-and-implementations
+SimpleNoteIndex
+linux-tips-and-tricks (better: linux-spellboook)
+readread
+youtube-live-embed
+mitosis
+the wake world
